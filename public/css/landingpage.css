@@ -1,0 +1,191 @@
+/* navbar */
+.navbar {
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0,7);
+}
+.navbar-brand {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 32px;
+}
+
+.nav-link {
+    font-family: Titillium Web;
+    font-weight: 500;
+}
+
+/* Jumbotron */
+.jumbotron {
+    background-image: url(/img/Hal1.jpg);
+    background-size: 1350px 800px;
+    height: 800px;
+}
+
+.jumbotron2 {
+    background-image: url(/img/Hal2.jpg);
+    background-size: cover;
+    background-size: 1350px 800px;
+    height: 800px;
+}
+
+.jumbotron3 {
+    margin-top: -10px;
+    background-image: url(/img/Hal3.jpg);
+    background-size: cover;
+    height: 500px;
+}
+
+.bi-arrow-right-circle {
+    margin-left: 42px;
+    margin-top: 32px;
+}
+
+.bi-arrow-right-circle-2 {
+    margin-left: 353px;
+    margin-top: -20px;
+}
+
+.bi-arrow-right-circle-3 {
+    margin-left: 650px;
+    margin-top: 35px;
+}
+
+.bi-arrow-right-circle-4 {
+    margin-left: 994px;
+    margin-top: -15px;
+}
+
+.display-4 {
+    color: grey;
+    }
+
+.display-4 span {
+    color: #FFBF24;
+    }
+
+.display-6 {
+    color: grey;
+    font-size: 22px;
+    }
+
+.display-7 {
+    color: grey;
+    font-size: 22px;
+    }
+
+.display-8 {
+    color: grey;
+    font-size: 22px;
+    }
+
+.display-9 {
+    color: grey;
+    font-size: 22px;
+    }
+
+.body6 {
+    color: grey;
+}
+
+.body5 {
+    color: grey;
+}
+
+.body3 {
+    color: grey;
+}
+
+.body4 {
+    color: grey;
+}
+
+.body2 {
+    color: grey;
+}
+
+.display-5 {
+    color: white;
+    }
+
+.body {
+    color: white;
+}
+
+.btn {
+    color: #F9B208;
+}
+
+/* footer */
+.footer {
+    background-color: khaki;
+}
+
+.nav {
+    margin-left: 600px;
+}
+
+
+/* Desktop */
+@media (min-width: 992px){
+.display-5 {
+    margin-top: 120px;
+    margin-left: 75px;
+    }
+
+.display-4 {
+    margin-top: 120px;
+    margin-left: 600px;
+    font-size: 50px;
+    }
+
+.display-6 {
+    margin-top: 190px;
+    margin-left: -70px;
+    }
+
+.display-7 {
+    margin-top: -185px;
+    margin-left: 260px;
+    }
+
+.display-8 {
+    margin-top: -183px;
+    margin-left: 555px;
+    }
+
+.display-9 {
+    margin-top: -187px;
+    margin-left: 890px;
+    }
+
+.body3 {
+    margin-left: -70px;
+}
+
+.body4 {
+    margin-left: 260px;
+}
+
+.body5 {
+    margin-left: 555px;
+}
+
+.body6 {
+    margin-left: 890px;
+}
+
+.body2 {
+    margin-left: 600px;
+    }
+
+.body {
+
+    margin-left: 75px;
+}
+
+.btn {
+    margin-left: 75px;
+}
+
+};
+
+
+
